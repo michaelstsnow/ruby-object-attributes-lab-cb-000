@@ -12,6 +12,6 @@ class dog
   end
 
   def breed
-    this_dogs_name
+    this_dogs_breed
   end
 end
